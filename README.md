@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - QR code component solution
 
-You can use the [editor on GitHub](https://github.com/rachelpr/qr-component/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+<!-- - [Acknowledgments](#acknowledgments) -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Screenshot
 
-- Bulleted
-- List
+![QR Code Card](./images/screenshot-final-product.png)
 
-1. Numbered
-2. List
+### Links
 
-**Bold** and _Italic_ and `Code` text
+- Solution URL: [https://github.com/rachelpr/qr-component](https://github.com/rachelpr/qr-component)
+- Live Site URL: [https://rachelpr.github.io/qr-component/](https://rachelpr.github.io/qr-component/)
 
-[Link](url) and ![Image](src)
-```
+## My process
+1. First I wrote the index.html, using semantic HTML tags as much as possible
+2. From here I wrote the basis of my layout.css stylesheet, with the known styles
+3. After this I spent most of my time re-configuring the styles from the browser dev tools as this helped me play around until I found the right one.
+4. I then showed my solution and the mock-ups to other people for a critical eye that wasn't my own
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Built with
 
-### Jekyll Themes
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachelpr/qr-component/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What I learned
 
-### Support or Contact
+- Downside to using the dev tools to style is accidentally forgetting to take the stylesheet from the dev console and apply them to your project stylesheet
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Useful resources
+
+- [Aligning Items in a Flex Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container) - MDN resource for aligning items with Flexbox, always a good read! 
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - A good resource for mastering the Chrome DevTools
+
+## Author
+
+- Frontend Mentor - [@rachelpr](https://www.frontendmentor.io/profile/rachelpr)
+- Github - [@rachelpr](https://github.com/rachelpr)
+
+<!-- ## Acknowledgments
+
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit. -->
