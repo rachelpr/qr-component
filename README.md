@@ -1,8 +1,8 @@
-# Frontend Mentor - QR code component solution
+## Frontend Mentor - QR code component solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+### Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -12,9 +12,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-<!-- - [Acknowledgments](#acknowledgments) -->
+- [Acknowledgments](#acknowledgments)
 
-## Overview
+### Overview
+A card component that uses a QR code to point to the Frontend Mentor site, and gives a brief description of the site.
 
 
 ### Screenshot
@@ -26,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [https://github.com/rachelpr/qr-component](https://github.com/rachelpr/qr-component)
 - Live Site URL: [https://rachelpr.github.io/qr-component/](https://rachelpr.github.io/qr-component/)
 
-## My process
+### My process
 1. First I wrote the index.html, using semantic HTML tags as much as possible
 2. From here I wrote the basis of my layout.css stylesheet, with the known styles
 3. After this I spent most of my time re-configuring the styles from the browser dev tools as this helped me play around until I found the right one.
@@ -48,11 +49,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Aligning Items in a Flex Container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container) - MDN resource for aligning items with Flexbox, always a good read! 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - A good resource for mastering the Chrome DevTools
 
-## Author
+### Author
 
 - Frontend Mentor - [@rachelpr](https://www.frontendmentor.io/profile/rachelpr)
 - Github - [@rachelpr](https://github.com/rachelpr)
 
-<!-- ## Acknowledgments
+### Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit. -->
+Quick shoutout to a couple folks that helped review my project:
+- [@blu3too](https://github.com/b1u3too)
+- [@MGS31](https://github.com/MGS31)
