@@ -28,13 +28,13 @@ body {
   height: 100%;
 }
 
-.card h1 {
+.body-copy h1 {
   display: flex;
   font-weight: 700;
   text-align: center;
 }
 
-.card p {
+.body-copy p {
   font-weight: 400;
   text-align: center;
 }
